@@ -99,4 +99,3 @@ Have ideas for improvements or new strategies to handle concurrency pitfalls? Co
 ---
 
 **Thank you for exploring my philosophers project!** May your journey into concurrency be filled with enlightenment, careful timing, and profound insights. Enjoy observing this delicate balance and learn from these philosophical diners! 🥢
-```
