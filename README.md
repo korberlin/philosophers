@@ -4,8 +4,6 @@
 
 Welcome, curious thinkers and concurrency enthusiasts! I’m excited to share my journey through the **philosophers** project at 42 Berlin. This endeavor explores the intricate world of concurrent programming, synchronization, and timing, all wrapped in a classic scenario: philosophers sitting around a table, pondering existence, and trying not to starve.
 
-![philosophers Passed with Bonus](img/philosopherse.png)
-
 ---
 
 ## About
@@ -108,6 +106,7 @@ These tests give a quick overview of different edge cases, from invalid inputs t
 
 Have ideas to improve the logic or enhance the simulation? Contributions are always welcome! Open an issue or submit a pull request. Let’s refine **philosophers** together and push the boundaries of concurrent programming.
 
+![philosophers Passed with Bonus](img/philosopherse.png)
 ---
 
 **Thank you for exploring my philosophers project!** May this journey into concurrency, resource sharing, and timing deepen your understanding of what it takes to keep philosophical minds (and empty stomachs) in perfect harmony. 🥢
